@@ -16,8 +16,8 @@ public class EjemploGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Ventana interfaz = new Ventana();
-        interfaz.show();
+        Ventana interfazz = new Ventana();
+        interfazz.show();
     }
     
 }
