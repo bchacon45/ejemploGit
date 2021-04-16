@@ -64,7 +64,7 @@ public class Ventana extends javax.swing.JFrame {
         });
 
         jButton5.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jButton5.setText("Clear");
+        jButton5.setText("Limpiar");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
